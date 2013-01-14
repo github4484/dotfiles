@@ -1,0 +1,8 @@
+[user]
+	name = YOSHIHASHI Kenji
+	email = knj4484@gmail.com
+[alias]
+	co = checkout
+	ci = commit
+	br = branch
+	st = status -s
